@@ -40,20 +40,6 @@
 
 <div align="center">
   <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=anajulliadev&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulliadev&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=anajulliadev&theme=tokyonight&hide_border=true"
     height="170"
   />
@@ -62,11 +48,13 @@
 <br/>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anajulliadev/anajulliadev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anajulliadev/anajulliadev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/anajulliadev/anajulliadev/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+
+![snake gif](https://github.com/anajulliadev/anajulliadev/blob/output/github-snake-dark.svg)
+  
+</div>
+
+
 
 <br/>
 <br/>
@@ -82,3 +70,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
+
+
+
+
