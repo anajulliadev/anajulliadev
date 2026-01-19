@@ -49,10 +49,9 @@
 <br/>
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=anajulliadev&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anajulliadev&show_icons=true&theme=tokyonight" />
+</div>
 </div>
 
 <br/>
