@@ -49,7 +49,8 @@ Gosto de código **limpo**, bem estruturado e com propósito.
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </div>
 
 ---
