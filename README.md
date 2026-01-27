@@ -47,7 +47,7 @@ Gosto de código **limpo**, bem estruturado e com propósito.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </div>
