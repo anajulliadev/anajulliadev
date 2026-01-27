@@ -50,6 +50,7 @@ Gosto de código **limpo**, bem estruturado e com propósito.
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=figma" />
 </div>
 
