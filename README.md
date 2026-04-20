@@ -82,7 +82,6 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
 
 - Código limpo e legível
 - Arquitetura simples e escalável
-- Boas práticas com Laravel e APIs
 - Reutilização de componentes
 - Integração eficiente entre front e back
 - Evolução constante 🚀
