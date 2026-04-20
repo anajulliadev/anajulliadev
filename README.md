@@ -2,9 +2,9 @@
 
 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Laravel+%7C+PHP;+TypeScript+%7C+React.js+%7C+Node.js;+Full+Stack+em+constante+evolução" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;TypeScript+%7C+React.js+%7C+Node.js;Laravel+%7C+PHP;Full+Stack+em+constante+evolução" /> </p>
 
----
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anajulliadev/" target="_blank">
@@ -18,7 +18,7 @@
   </a>
 </div>
 
----
+
 
 ## Oiê, eu sou a Ana!
 
@@ -32,7 +32,7 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
 
 > O que mais me motiva na área de TI é construir coisas úteis e ir ficando melhor no que eu faço a cada projeto.
 
----
+
 
 ### 🚀 O que você vai encontrar por aqui:
 
@@ -42,7 +42,7 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
 - Aplicações com código limpo, organizado e escalável
 - Experiências práticas com **Laravel (PHP)** 
 
----
+
 
 ## 🔹 Stack Principal
 
@@ -77,7 +77,7 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -86,7 +86,7 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulliadev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
+
 
 ## 🐍 Contribution Snake
 
@@ -96,8 +96,4 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
 
 </div>
 
----
 
-<div align="center">
-✨ <strong>Construindo soluções com Laravel hoje e evoluindo como full stack todos os dias.</strong> ✨
-</div>
