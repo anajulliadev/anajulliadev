@@ -77,15 +77,6 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
 
 </div>
 
-
-## 🌟 O que valorizo no meu código
-
-- Código limpo e legível
-- Arquitetura simples e escalável
-- Reutilização de componentes
-- Integração eficiente entre front e back
-- Evolução constante 🚀
-
 ---
 
 ## 📊 GitHub Stats
