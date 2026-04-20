@@ -1,8 +1,8 @@
 <!-- ================= HERO ================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js;Interfaces+modernas+e+APIs+bem+estruturadas" />
-</p>
+
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Laravel+%7C+PHP;+TypeScript+%7C+React.js+%7C+Node.js;+Full+Stack+em+constante+evolução" /> </p>
 
 ---
 
@@ -20,49 +20,72 @@
 
 ---
 
-## 👋 Oi, eu sou a Ana Júlia
+## Oiê, eu sou a Ana!
 
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzA3bHpmZWV5dG9rM2p6NXl3dzFtaXQ2aW1qOWx3YWVsbTFhYm45NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" />
 
+Estudante de Ciência da Computação, e atualmente estagiária de desenvolvimento web, que gosta de transformar ideias em coisas que realmente funcionam.
 
-  <img align="right" width="420"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzA3bHpmZWV5dG9rM2p6NXl3dzFtaXQ2aW1qOWx3YWVsbTFhYm45NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
+Curto trabalhar tanto no **frontend**, cuidando da experiência e do visual, quanto no **backend**, organizando lógica, APIs e tudo que faz a aplicação rodar de verdade.
 
-Sou **Full Stack Developer**, apaixonada por transformar ideias em **produtos funcionais, escaláveis e bem pensados**.
+No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e sempre tentando escrever código mais limpo, mais simples e que faça sentido.
 
-Atuo tanto no **frontend**, criando interfaces modernas e intuitivas, quanto no **backend**, desenvolvendo APIs organizadas, seguras e fáceis de evoluir.
+> O que mais me motiva na área de TI é construir coisas úteis e ir ficando melhor no que eu faço a cada projeto.
 
-Gosto de código **limpo**, bem estruturado e com propósito.
+---
 
 ### 🚀 O que você vai encontrar por aqui:
-- Interfaces modernas com **React & Next.js**
-- Backends com **Node.js** e boas práticas
-- Integração com bancos de dados e serviços
-- Projetos focados em **aprendizado real e evolução constante**
 
-> *Código bem escrito hoje evita dor de cabeça amanhã.*
+- Projetos full stack com **Node.js, React e TypeScript**
+- Interfaces modernas e responsivas com foco em experiência do usuário
+- APIs bem estruturadas e integrações entre frontend e backend
+- Aplicações com código limpo, organizado e escalável
+- Experiências práticas com **Laravel (PHP)** 
 
 ---
 
-## ⚙️ Stack Principal
+## 🔹 Stack Principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=figma" />
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" /><br/>PHP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" /><br/>Laravel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" /><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" /><br/>Figma</td>
+    <td align="center">—</td>
+    <td align="center">—</td>
+  </tr>
+</table>
+
 </div>
 
----
 
-## 🧩 O que eu valorizo nos meus projetos
+## 🌟 O que valorizo no meu código
 
-- Arquitetura simples e organizada
-- Componentes reutilizáveis
-- Código legível e fácil de manter
-- Integrações bem definidas entre front e back
-- Aprendizado contínuo 🚀
+- Código limpo e legível
+- Arquitetura simples e escalável
+- Boas práticas com Laravel e APIs
+- Reutilização de componentes
+- Integração eficiente entre front e back
+- Evolução constante 🚀
 
 ---
 
@@ -75,6 +98,8 @@ Gosto de código **limpo**, bem estruturado e com propósito.
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
 ![snake gif](https://github.com/anajulliadev/anajulliadev/blob/output/github-snake-dark.svg)
@@ -84,5 +109,5 @@ Gosto de código **limpo**, bem estruturado e com propósito.
 ---
 
 <div align="center">
-✨ <strong>Construindo soluções com código e intenção.</strong> ✨
+✨ <strong>Construindo soluções com Laravel hoje e evoluindo como full stack todos os dias.</strong> ✨
 </div>
