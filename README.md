@@ -40,7 +40,6 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
 - Interfaces modernas e responsivas com foco em experiência do usuário
 - APIs bem estruturadas e integrações entre frontend e backend
 - Aplicações com código limpo, organizado e escalável
-- Experiências práticas com **Laravel (PHP)** 
 
 
 
@@ -50,27 +49,22 @@ No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e 
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" /><br/>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" /><br/>Laravel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
-  </tr>
-  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" /><br/>Express</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
+    
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" /><br/>Figma</td>
-    <td align="center">—</td>
     <td align="center">—</td>
   </tr>
 </table>
