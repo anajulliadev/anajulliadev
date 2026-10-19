@@ -18,8 +18,6 @@
 
 ## Oiê, eu sou a Ana!
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzA3bHpmZWV5dG9rM2p6NXl3dzFtaXQ2aW1qOWx3YWVsbTFhYm45NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" />
-
 Estudante de Ciência da Computação
 
 > O que mais me motiva na área de TI é construir coisas úteis e ir ficando melhor no que eu faço a cada projeto.
