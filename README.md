@@ -2,10 +2,6 @@
 
 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;TypeScript+%7C+React.js+%7C+Node.js;Full+Stack+em+constante+evolução" /> </p>
-
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/anajulliadev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,53 +20,9 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzA3bHpmZWV5dG9rM2p6NXl3dzFtaXQ2aW1qOWx3YWVsbTFhYm45NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" />
 
-Estudante de Ciência da Computação, e atualmente estagiária de desenvolvimento web, que gosta de transformar ideias em coisas que realmente funcionam.
-
-Curto trabalhar tanto no **frontend**, cuidando da experiência e do visual, quanto no **backend**, organizando lógica, APIs e tudo que faz a aplicação rodar de verdade.
-
-No dia a dia, estou aprendendo bastante na prática, evoluindo constantemente e sempre tentando escrever código mais limpo, mais simples e que faça sentido.
+Estudante de Ciência da Computação
 
 > O que mais me motiva na área de TI é construir coisas úteis e ir ficando melhor no que eu faço a cada projeto.
-
-
-
-### 🚀 O que você vai encontrar por aqui:
-
-- Projetos full stack com **Node.js, React e TypeScript**
-- Interfaces modernas e responsivas com foco em experiência do usuário
-- APIs bem estruturadas e integrações entre frontend e backend
-- Aplicações com código limpo, organizado e escalável
-
-
-
-## 🔹 Stack Principal
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" /><br/>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
-    
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br/>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" /><br/>Figma</td>
-    <td align="center">—</td>
-  </tr>
-</table>
-
-</div>
-
 
 
 ## 📊 GitHub Stats
